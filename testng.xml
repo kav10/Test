@@ -9,7 +9,7 @@
  <class name="automationFramework.MultiBrowser" />
  </classes>
  </test>
- <hi..>
+
 <test name="Firefox">
  <parameter name="browser" value="firefox" />
  <classes>
