@@ -31,7 +31,7 @@ public class MultiBrowser {
 
   // Passing Browser parameter from TestNG xml
   @BeforeClass 
-  @Parameters("browser")
+  @Parameters("brows")
   public void beforeTest(String browser) {
 
   // If the browser is Firefox, then do this
